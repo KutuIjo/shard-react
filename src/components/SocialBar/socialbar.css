@@ -1,0 +1,13 @@
+#social-container{
+    position: fixed;
+    padding: 0.1rem 0.1rem 0 0.1rem;
+    background-color: white;
+    border-style: solid;
+    border-radius: 0.5rem;
+    bottom: 10px;
+    right: 10px;
+    z-index: 9999;
+}
+#social-container a{
+    margin: 0 0.2rem;
+}
